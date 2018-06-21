@@ -1,4 +1,7 @@
-## Solace Bridge Outskirts
+---
+layout: post
+title: Solace Bridge Outskirts
+---
 
 * Investigate Source of Blood -> Deliver Quentin's Final Report (4.000 xp, 250 g)
 
