@@ -3,8 +3,6 @@ layout: post
 title: Isle of Storms
 ---
 
-## Isle of Storms
-
 These are pretty self explanatory and yield no XP.
 
 * Move with W, A, S & D keys
