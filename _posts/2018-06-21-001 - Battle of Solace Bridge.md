@@ -1,4 +1,7 @@
-## Battle of Solace Bridge
+---
+layout: post
+title: Battle of Solace Bridge
+---
 
 Same drill as on the Isle of Storms, but you should search, loot and plunder everything you can. Look for "Quincey's broken sword", don't leave the scene without it, you won't get a second chance on this!
 
