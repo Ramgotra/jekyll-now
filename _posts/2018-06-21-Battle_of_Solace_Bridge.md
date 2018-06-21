@@ -14,8 +14,8 @@ Same drill as on the Isle of Storms, but you should search, loot and plunder eve
 * Help Edvard cross the bridge
 * Loot a fallenenemy
 * Use the 'Aimed Shot' skill
-* Speak with Edvard (5,000 xp)
-* Talk with Charlotte's mother (=> Soltown: Refugee Camp: Abigail (2,500 xp))
+* Speak with Edvard (5.000 xp)
+* Talk with Charlotte's mother (=> Soltown: Refugee Camp: Abigail (2.500 xp))
 * Seek Private Garridon
 * Find out why the Undead are rising!
 * Use the Boat
