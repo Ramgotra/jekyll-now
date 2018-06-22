@@ -45,13 +45,14 @@ You can slay the chickens for feathers (Sgt. Sedgewick's third quest) or simply 
 #### Captain Kinsey:
 
 * Ask Alchemist for Medicine -> Deliver Medicine to Captain Kinsey (4.000 xp, 250 g)
-* Give Report to Stanley (4.000 xp, 250 g, Banner of Love)
+* Give Report to Stanley (=> [Ardoris]({% post_url 2018-06-21-Ardoris %}) (4.000 xp, 250 g, Banner of Love)
 
 #### Ackerley (Alchemist):
 
 * Obtain a Fresh Zombie's Olfactory Gland (4.000 xp, 250 g)
 
 #### Lieutenant Sigourney:
+
 * Tell Kinsey of Her Scouts' Fates (4.000 xp, 250 g)
 
 #### Forgetful Ghost (loc -133.4, 19.4, -207.9):
