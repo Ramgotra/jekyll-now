@@ -45,7 +45,7 @@ You can slay the chickens for feathers (Sgt. Sedgewick's third quest) or simply 
 #### Captain Kinsey:
 
 * Ask Alchemist for Medicine -> Deliver Medicine to Captain Kinsey (4.000 xp, 250 g)
-* Give Report to Stanley (=> [Ardoris]({% post_url 2018-06-21-005 - Ardoris.md %}) (4.000 xp, 250 g, Banner of Love)
+* Give Report to Stanley (=> [Ardoris]({% post_url 2018-06-21-005-Ardoris.md %}) (4.000 xp, 250 g, Banner of Love)
 
 #### Ackerley (Alchemist):
 
